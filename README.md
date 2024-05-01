@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bayramkaradeniz
 - 👀 I’m interested in Asp.Net,Python 
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on .net projects or data science
+- 🌱 I’m currently learning MVC
+- 💞️ I’m looking to collaborate on .net projects 
 - 📫 You can reach me via byrmxkaradeniz@gmail.com
 
 <!---
